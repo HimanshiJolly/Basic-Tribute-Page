@@ -1,0 +1,35 @@
+body {
+    background-color: floralwhite;
+    margin: 0 15%;
+    font-family: Arial, sans-serif;
+}
+#heading1 {
+    text-align: center;
+    text-shadow: 3px 3px 5px rgb(163, 159, 159);
+    font-size: 6vh;
+}
+#img1 {
+    float: left;
+    width: 20%;
+    margin: 0 10px 10px 0;
+}
+#img2 {
+    float: right;
+    width: 30%;
+    margin: 5px 0 5px 10px;
+}
+#p1,#p2 {
+    text-align: justify;
+}
+#div1 {
+    background-color: rgba(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #686b68;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.clear {
+    clear: both;
+}
